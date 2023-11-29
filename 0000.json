@@ -1,0 +1,23 @@
+{
+  "name": "Pxodia #0000",
+  "symbol": "PXD#0000",
+  "description": "This is a Pxodia Book.",
+  "image": "https://raw.githubusercontent.com/Roazpull/rep_4/main/0000.png",
+  "external_url": "https://pxodia.com",
+  "extensions": {
+    "discord": "",
+    "twitter": "",
+    "vault": "",
+    "website": "https://pxodia.com"
+  },
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Depth",
+      "value": "150"
+    }
+  ]
+}
